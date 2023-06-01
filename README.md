@@ -11,4 +11,4 @@
 
 <h3> ⚙ &nbsp;Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,sass,react,vite,threejs,discord,linux,nginx,nodejs,express,mongo,mysql,firebase,postman,figma,git,github,githubactions,gitlab,md,stackoverflow,vscode,eclipse,raspberrypi,blender)](https://mosemann.de)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css,sass,react,vite,threejs,discord,linux,nginx,nodejs,express,php,mongo,mysql,firebase,postman,figma,git,github,githubactions,gitlab,md,stackoverflow,vscode,eclipse,raspberrypi,blender)](https://mosemann.de)
