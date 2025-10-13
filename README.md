@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">I'm a 19-year-old student from Germany, currently pursuing a dual study program in Business Informatics at SAP.</h3>
+<h3 align="center">Currently studying Business Informatics at SAP!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamfm&label=Profile%20views&color=0e75b6&style=flat" alt="ahamfm" /> </p>
 
