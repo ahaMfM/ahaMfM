@@ -5,8 +5,7 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/18774539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18774539" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahamfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahamfm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mosemann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3> ⚙ &nbsp;Tech Stack</h3>
